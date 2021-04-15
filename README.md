@@ -11,9 +11,12 @@ Hello, my name is Danil. I love what I do. I think about projects all day long, 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
+<br />
+<br />
+
 **My social network:**
 <a href="https://www.linkedin.com/in/danil-olegovich-melnikov">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: red"/>
+  <img align="left" alt="Telegram" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://t.me/danil_olegovich_melnikov">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
