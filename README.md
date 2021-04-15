@@ -1,6 +1,5 @@
-Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
+Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br/>
 My name is Danil. I love what I do. I think about projects all day long, fall asleep and wake up with my ideas and every time I can't wait for the moment when I can sit down at my computer and start implementing my ideas into code. I'm not bad at programming, but there is a lot more to learn and it makes me happy. I am a second year student of Software Engineering program at Almaty Management University. My primary focus is Django.
 
 <br />
