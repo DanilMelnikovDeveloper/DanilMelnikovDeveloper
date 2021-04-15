@@ -11,10 +11,11 @@
 
 <br />
 <br />
-Привет, меня зовут Данил. Я делаю то, что я люблю - программирование. Я думаю о проектах на протяжение всего дня, засыпаю и просыпаюсь со своими идеями и каждый раз не могу дождаться того момента, когда можно сесть за свой компьютер и начать реализовать свои идеи в код. У меня не плохо получается программировать. Многому чему стоит еще обучиться, но я в процессе. Обучаюсь на втором курсе Программной Инженирии. Изучаю Django и другие технологии.
+Hello, my name is Danil. I love what I do. I think about projects all day long, fall asleep and wake up with my ideas and every time I can't wait for the moment when I can sit down at my computer and start implementing my ideas into code. I'm not bad at programming, but there is a lot more to learn and it makes me happy. I am a second year student of Software Engineering program at Almaty Management University. My primary focus is Django.
 
 <br />
-  
+<br />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -22,8 +23,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [x] Прокачать свои навыки     
-<!-- TODO-IST:END -->
